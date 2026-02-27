@@ -1,0 +1,25 @@
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.o
+
+# Build artifacts
+/build/
+/dist/
+*.lib
+*.exp
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
