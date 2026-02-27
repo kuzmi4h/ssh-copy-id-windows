@@ -1,5 +1,6 @@
 # Compiled files
 *.exe
+!ssh-copy-id.exe
 *.obj
 *.pdb
 *.o
